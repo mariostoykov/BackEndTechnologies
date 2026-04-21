@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParser", "ConsoleApp1\JsonParser.csproj", "{752151A6-816A-4C64-9D3C-E5ECE3A8D9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752151A6-816A-4C64-9D3C-E5ECE3A8D9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752151A6-816A-4C64-9D3C-E5ECE3A8D9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752151A6-816A-4C64-9D3C-E5ECE3A8D9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752151A6-816A-4C64-9D3C-E5ECE3A8D9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
